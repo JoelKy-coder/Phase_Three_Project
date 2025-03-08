@@ -39,45 +39,44 @@ The dataset consists of three CSV files:
 ## Final Summary
 The analysis conducted on the well data provided several insights into the functionality and status of wells across different regions and under various conditions. Key findings include:
 
-## Model Performance:
-
+**Model Performance**:
 The Random Forest Classifier (RFC) model with tuned hyperparameters showed improved precision scores for non-functional wells, indicating its potential for identifying wells that may soon become non-functional.
 The Gradient Boosting Classifier (GBC) model was also evaluated, but the RFC model was selected as the final model due to its better performance.
-Feature Importance:
 
+**Feature Importance**:
 Feature importance analysis revealed the top features influencing the well status, which can guide future data collection and model improvements.
-Funder and Installer Analysis:
 
+**Funder and Installer Analysis**:
 Analysis of wells funded by different organizations (e.g., World Bank, Government of Tanzania) and installed by various entities highlighted the impact of these factors on well functionality.
 Visualizations showed the distribution of well statuses by funder and installer, providing insights into which organizations and installers are associated with better well performance.
-Geographical Analysis:
 
+**Geographical Analysis**:
 The functionality of wells was analyzed across different basins, with a focus on Lake Victoria and Ruvuma/Southern Coast basins.
 The construction year of wells in the Ruvuma basin was examined, revealing trends in well functionality over time.
 Overall, the analysis provides a comprehensive understanding of the factors influencing well functionality and offers actionable insights for improving water access in the region.
 
-Recommendations
+## Recommendations
 Based on the analysis conducted, the following recommendations are proposed to improve well functionality and water access in the region:
 
-Focus on Key Features:
+**Focus on Key Features**:
+Based on the top features identified in the feature importance analysis. This can help in the early identification of wells that are likely to become non-functional early on.
 
-Prioritize monitoring and maintenance of wells based on the top features identified in the feature importance analysis. This can help in early identification of wells that are likely to become non-functional.
-Targeted Interventions by Funders and Installers:
-
+**Targeted Interventions by Funders and Installers**:
 Collaborate with funders and installers who have a track record of better well performance. For instance, wells funded by the World Bank and installed by certain entities showed better functionality. Strengthening partnerships with these organizations can lead to improved outcomes.
-Geographical Focus:
 
+**Geographical Focus**:
 Concentrate efforts on regions with higher rates of non-functional wells. The analysis highlighted specific basins, such as Lake Victoria and Ruvuma/Southern Coast, where targeted interventions could be beneficial.
-Historical Data Utilization:
 
-Utilize historical data on well construction years to identify trends and plan maintenance schedules. Older wells, particularly those constructed between 1975 and 1990 in the Ruvuma basin, may require more frequent inspections and repairs.
-Enhanced Data Collection:
+**Historical Data Utilization**:
+Utilized historical data on well construction years to identify trends and plan maintenance schedules. Older wells, particularly those constructed between 1975 and 1990 in the Ruvuma basin, may require more frequent inspections and repairs.
 
+**Enhanced Data Collection**:
 Improve data collection processes to capture more detailed information on well characteristics and conditions. This can enhance the accuracy of predictive models and support better decision-making.
-Continuous Model Tuning:
 
-Regularly update and tune predictive models to incorporate new data and improve their accuracy. This will help in maintaining the reliability of predictions and ensuring timely interventions.
-Community Engagement:
+**Continuous Model Tuning**:
+Regularly update and tune predictive models to incorporate new data and improve their accuracy. This will help maintain the reliability of predictions and ensure timely interventions.
 
-Engage with local communities to gather insights and feedback on well functionality. Community involvement can provide valuable information and foster a sense of ownership, leading to better maintenance and sustainability of wells.
+**Community Engagement**:
+You can engage with local communities to gather insights and feedback on well-functioning. Community involvement can provide valuable information and foster a sense of ownership, leading to better maintenance and sustainability of wells.
+
 By implementing these recommendations, it is possible to enhance well functionality, ensure sustainable water access, and improve the overall effectiveness of water management initiatives in the region.
