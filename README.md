@@ -18,4 +18,5 @@ This research utilized data from DrivenData about waterpoints. The dataset was s
 1. Training set values
 2. Training set labels
 3. Test set values
+   
 The training and test datasets contained similar columns, while the training set labels dataset included one column, which was the focus of the study.
