@@ -1,5 +1,5 @@
-![image](https://github.com/JoelKy-coder/Phase_Three_Project/blob/main/IMG-20180422-WA0030%20(1).jpg)
 # Predicting the Condition of Water Wells in Tanzania
+![image](https://github.com/JoelKy-coder/Phase_Three_Project/blob/main/IMG-20180422-WA0030%20(1).jpg)
 ## Business Understanding
 ## Problem Description
 Tanzania, with a population of over 57 million, faces significant challenges in providing access to clean and reliable water sources. While numerous water points (wells, boreholes, and pumps) have been established across the country, many are non-functional, in need of repair, or have failed altogether. This situation exacerbates water scarcity, particularly in rural and underserved areas, impacting public health, economic productivity, and overall quality of life.
