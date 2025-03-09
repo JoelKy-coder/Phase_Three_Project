@@ -36,6 +36,12 @@ The dataset consists of three CSV files:
 - Explored various classifiers: Logistic Regression, Decision Trees, Random Forests, and Gradient Boosting.
 - Used cross-validation and hyperparameter tuning to optimize model performance.
 
+## Data visualization
+![image](https://github.com/user-attachments/assets/baca37d5-4f90-467f-9432-5a67756ee456)
+![image](https://github.com/user-attachments/assets/fb66c424-1ec1-4a4c-b29c-0c7f1f885428)
+![image](https://github.com/user-attachments/assets/e1edc015-41a8-4b8c-812d-10c7f683904e)
+
+
 ## Final Summary
 The analysis conducted on the well data provided several insights into the functionality and status of wells across different regions and under various conditions. Key findings include:
 
